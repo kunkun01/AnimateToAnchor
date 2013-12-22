@@ -2,7 +2,10 @@ AnimateToAnchor
 ===============
 平滑定位到锚点
 
-‘   jQuery(document).ready(function ($) {
+[DEMO](http://kunkun01.github.io/AnimateToAnchor/)
+
+```javascript
+     jQuery(document).ready(function ($) {
             $("a").click(function() {
                 $("html, body").animate({
                     scrollTop: $($(this).attr("href")).offset().top + "px"
@@ -13,5 +16,4 @@ AnimateToAnchor
                 return false;
             });
         });
-’
-
+```
