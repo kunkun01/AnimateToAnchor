@@ -2,7 +2,7 @@ AnimateToAnchor
 ===============
 平滑定位到锚点
 
-[DEMO](http://kunkun01.github.io/AnimateToAnchor/)
+[DEMO](http://kunkun12.github.io/AnimateToAnchor/)
 
 ```javascript
      jQuery(document).ready(function ($) {
